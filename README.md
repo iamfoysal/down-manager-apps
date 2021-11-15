@@ -4,20 +4,20 @@
 
     pip install -r requirements.txt
     
-    or
-    #Flask
+ or
+ ##Flask
     
     $ pip install Flask
     
     
-    #youtube-dl
-    
+##youtube-dl
+   
     $ pip install youtube-dl
 
 ## Start flask server
 
-   run app.py 
+    run app.py 
   
 Visit http://localhost in your browser.or http://127.0.0.1/
 
-![Screenshot](/screenshot_3.png)
+![Screenshot](./screenshot_3.png)
