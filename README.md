@@ -18,6 +18,6 @@
 
     run app.py 
   
-Visit http://localhost in your browser.or http://127.0.0.1/
+Visit http://localhost in your browser.or http://127.0.0.1:500/
 
 ![Screenshot](./Screenshot_3.png)
